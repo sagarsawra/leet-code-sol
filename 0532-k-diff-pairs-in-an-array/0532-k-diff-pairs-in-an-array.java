@@ -6,25 +6,26 @@ class Solution {
         int count = 0;
 
         for (int i = 0; i < nums.length; i++) {
-            // skip duplicates
             if (i > 0 && nums[i] == nums[i - 1]) continue;
 
             int target = nums[i] + k;
-            if (binarySearch(nums, i + 1, nums.length - 1, target)) {
-                count++;
+            int l = i + 1, r = nums.length - 1;
+
+            while (l <= r) {
+                int mid = l + (r - l) / 2;
+
+                if (nums[mid] == target) {
+                    count++;
+                    break;
+                } 
+                else if (nums[mid] < target) {
+                    l = mid + 1;
+                } 
+                else {
+                    r = mid - 1;
+                }
             }
         }
         return count;
-    }
-
-    private boolean binarySearch(int[] nums, int left, int right, int target) {
-        while (left <= right) {
-            int mid = left + (right - left) / 2;
-
-            if (nums[mid] == target) return true;
-            else if (nums[mid] < target) left = mid + 1;
-            else right = mid - 1;
-        }
-        return false;
     }
 }
