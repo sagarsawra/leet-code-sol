@@ -8,6 +8,7 @@ just to learn
 | ------- | ------- |
 | [0238-product-of-array-except-self](https://github.com/sagarsawra/leet-code-sol/tree/main/0238-product-of-array-except-self/) | Medium |
 | [0532-k-diff-pairs-in-an-array](https://github.com/sagarsawra/leet-code-sol/tree/main/0532-k-diff-pairs-in-an-array/) | Medium |
+| [0852-peak-index-in-a-mountain-array](https://github.com/sagarsawra/leet-code-sol/tree/main/0852-peak-index-in-a-mountain-array/) | Medium |
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -21,6 +22,7 @@ just to learn
 | ------- | ------- |
 | [0441-arranging-coins](https://github.com/sagarsawra/leet-code-sol/tree/main/0441-arranging-coins/) | Easy |
 | [0532-k-diff-pairs-in-an-array](https://github.com/sagarsawra/leet-code-sol/tree/main/0532-k-diff-pairs-in-an-array/) | Medium |
+| [0852-peak-index-in-a-mountain-array](https://github.com/sagarsawra/leet-code-sol/tree/main/0852-peak-index-in-a-mountain-array/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
