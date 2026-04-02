@@ -10,6 +10,7 @@ just to learn
 | [0532-k-diff-pairs-in-an-array](https://github.com/sagarsawra/leet-code-sol/tree/main/0532-k-diff-pairs-in-an-array/) | Medium |
 | [0852-peak-index-in-a-mountain-array](https://github.com/sagarsawra/leet-code-sol/tree/main/0852-peak-index-in-a-mountain-array/) | Medium |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/sagarsawra/leet-code-sol/tree/main/1385-find-the-distance-value-between-two-arrays/) | Easy |
+| [1552-magnetic-force-between-two-balls](https://github.com/sagarsawra/leet-code-sol/tree/main/1552-magnetic-force-between-two-balls/) | Medium |
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -25,6 +26,7 @@ just to learn
 | [0532-k-diff-pairs-in-an-array](https://github.com/sagarsawra/leet-code-sol/tree/main/0532-k-diff-pairs-in-an-array/) | Medium |
 | [0852-peak-index-in-a-mountain-array](https://github.com/sagarsawra/leet-code-sol/tree/main/0852-peak-index-in-a-mountain-array/) | Medium |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/sagarsawra/leet-code-sol/tree/main/1385-find-the-distance-value-between-two-arrays/) | Easy |
+| [1552-magnetic-force-between-two-balls](https://github.com/sagarsawra/leet-code-sol/tree/main/1552-magnetic-force-between-two-balls/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -39,4 +41,5 @@ just to learn
 | ------- | ------- |
 | [0532-k-diff-pairs-in-an-array](https://github.com/sagarsawra/leet-code-sol/tree/main/0532-k-diff-pairs-in-an-array/) | Medium |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/sagarsawra/leet-code-sol/tree/main/1385-find-the-distance-value-between-two-arrays/) | Easy |
+| [1552-magnetic-force-between-two-balls](https://github.com/sagarsawra/leet-code-sol/tree/main/1552-magnetic-force-between-two-balls/) | Medium |
 <!---LeetCode Topics End-->
