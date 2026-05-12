@@ -13,6 +13,7 @@ just to learn
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/sagarsawra/leet-code-sol/tree/main/1482-minimum-number-of-days-to-make-m-bouquets/) | Medium |
 | [1552-magnetic-force-between-two-balls](https://github.com/sagarsawra/leet-code-sol/tree/main/1552-magnetic-force-between-two-balls/) | Medium |
 | [1608-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/sagarsawra/leet-code-sol/tree/main/1608-special-array-with-x-elements-greater-than-or-equal-x/) | Easy |
+| [1665-minimum-initial-energy-to-finish-tasks](https://github.com/sagarsawra/leet-code-sol/tree/main/1665-minimum-initial-energy-to-finish-tasks/) | Hard |
 | [1760-minimum-limit-of-balls-in-a-bag](https://github.com/sagarsawra/leet-code-sol/tree/main/1760-minimum-limit-of-balls-in-a-bag/) | Medium |
 | [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/sagarsawra/leet-code-sol/tree/main/2064-minimized-maximum-of-products-distributed-to-any-store/) | Medium |
 | [2553-separate-the-digits-in-an-array](https://github.com/sagarsawra/leet-code-sol/tree/main/2553-separate-the-digits-in-an-array/) | Easy |
@@ -53,9 +54,11 @@ just to learn
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/sagarsawra/leet-code-sol/tree/main/1385-find-the-distance-value-between-two-arrays/) | Easy |
 | [1552-magnetic-force-between-two-balls](https://github.com/sagarsawra/leet-code-sol/tree/main/1552-magnetic-force-between-two-balls/) | Medium |
 | [1608-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/sagarsawra/leet-code-sol/tree/main/1608-special-array-with-x-elements-greater-than-or-equal-x/) | Easy |
+| [1665-minimum-initial-energy-to-finish-tasks](https://github.com/sagarsawra/leet-code-sol/tree/main/1665-minimum-initial-energy-to-finish-tasks/) | Hard |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1665-minimum-initial-energy-to-finish-tasks](https://github.com/sagarsawra/leet-code-sol/tree/main/1665-minimum-initial-energy-to-finish-tasks/) | Hard |
 | [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/sagarsawra/leet-code-sol/tree/main/2064-minimized-maximum-of-products-distributed-to-any-store/) | Medium |
 ## String
 | Problem Name | Difficulty |
