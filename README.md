@@ -23,6 +23,7 @@ just to learn
 | [2553-separate-the-digits-in-an-array](https://github.com/sagarsawra/leet-code-sol/tree/main/2553-separate-the-digits-in-an-array/) | Easy |
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/sagarsawra/leet-code-sol/tree/main/2770-maximum-number-of-jumps-to-reach-the-last-index/) | Medium |
 | [2784-check-if-array-is-good](https://github.com/sagarsawra/leet-code-sol/tree/main/2784-check-if-array-is-good/) | Easy |
+| [3043-find-the-length-of-the-longest-common-prefix](https://github.com/sagarsawra/leet-code-sol/tree/main/3043-find-the-length-of-the-longest-common-prefix/) | Medium |
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -52,6 +53,7 @@ just to learn
 | [0532-k-diff-pairs-in-an-array](https://github.com/sagarsawra/leet-code-sol/tree/main/0532-k-diff-pairs-in-an-array/) | Medium |
 | [2540-minimum-common-value](https://github.com/sagarsawra/leet-code-sol/tree/main/2540-minimum-common-value/) | Easy |
 | [2784-check-if-array-is-good](https://github.com/sagarsawra/leet-code-sol/tree/main/2784-check-if-array-is-good/) | Easy |
+| [3043-find-the-length-of-the-longest-common-prefix](https://github.com/sagarsawra/leet-code-sol/tree/main/3043-find-the-length-of-the-longest-common-prefix/) | Medium |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -76,6 +78,7 @@ just to learn
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1021-remove-outermost-parentheses](https://github.com/sagarsawra/leet-code-sol/tree/main/1021-remove-outermost-parentheses/) | Easy |
+| [3043-find-the-length-of-the-longest-common-prefix](https://github.com/sagarsawra/leet-code-sol/tree/main/3043-find-the-length-of-the-longest-common-prefix/) | Medium |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -96,4 +99,8 @@ just to learn
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1306-jump-game-iii](https://github.com/sagarsawra/leet-code-sol/tree/main/1306-jump-game-iii/) | Medium |
+## Trie
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3043-find-the-length-of-the-longest-common-prefix](https://github.com/sagarsawra/leet-code-sol/tree/main/3043-find-the-length-of-the-longest-common-prefix/) | Medium |
 <!---LeetCode Topics End-->
