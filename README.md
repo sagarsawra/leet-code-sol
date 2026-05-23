@@ -17,6 +17,7 @@ just to learn
 | [1552-magnetic-force-between-two-balls](https://github.com/sagarsawra/leet-code-sol/tree/main/1552-magnetic-force-between-two-balls/) | Medium |
 | [1608-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/sagarsawra/leet-code-sol/tree/main/1608-special-array-with-x-elements-greater-than-or-equal-x/) | Easy |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/sagarsawra/leet-code-sol/tree/main/1665-minimum-initial-energy-to-finish-tasks/) | Hard |
+| [1752-check-if-array-is-sorted-and-rotated](https://github.com/sagarsawra/leet-code-sol/tree/main/1752-check-if-array-is-sorted-and-rotated/) | Easy |
 | [1760-minimum-limit-of-balls-in-a-bag](https://github.com/sagarsawra/leet-code-sol/tree/main/1760-minimum-limit-of-balls-in-a-bag/) | Medium |
 | [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/sagarsawra/leet-code-sol/tree/main/2064-minimized-maximum-of-products-distributed-to-any-store/) | Medium |
 | [2540-minimum-common-value](https://github.com/sagarsawra/leet-code-sol/tree/main/2540-minimum-common-value/) | Easy |
