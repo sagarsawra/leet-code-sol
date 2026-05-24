@@ -12,6 +12,7 @@ just to learn
 | [0532-k-diff-pairs-in-an-array](https://github.com/sagarsawra/leet-code-sol/tree/main/0532-k-diff-pairs-in-an-array/) | Medium |
 | [0852-peak-index-in-a-mountain-array](https://github.com/sagarsawra/leet-code-sol/tree/main/0852-peak-index-in-a-mountain-array/) | Medium |
 | [1306-jump-game-iii](https://github.com/sagarsawra/leet-code-sol/tree/main/1306-jump-game-iii/) | Medium |
+| [1340-jump-game-v](https://github.com/sagarsawra/leet-code-sol/tree/main/1340-jump-game-v/) | Hard |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/sagarsawra/leet-code-sol/tree/main/1385-find-the-distance-value-between-two-arrays/) | Easy |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/sagarsawra/leet-code-sol/tree/main/1482-minimum-number-of-days-to-make-m-bouquets/) | Medium |
 | [1552-magnetic-force-between-two-balls](https://github.com/sagarsawra/leet-code-sol/tree/main/1552-magnetic-force-between-two-balls/) | Medium |
@@ -65,6 +66,7 @@ just to learn
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0532-k-diff-pairs-in-an-array](https://github.com/sagarsawra/leet-code-sol/tree/main/0532-k-diff-pairs-in-an-array/) | Medium |
+| [1340-jump-game-v](https://github.com/sagarsawra/leet-code-sol/tree/main/1340-jump-game-v/) | Hard |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/sagarsawra/leet-code-sol/tree/main/1385-find-the-distance-value-between-two-arrays/) | Easy |
 | [1552-magnetic-force-between-two-balls](https://github.com/sagarsawra/leet-code-sol/tree/main/1552-magnetic-force-between-two-balls/) | Medium |
 | [1608-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/sagarsawra/leet-code-sol/tree/main/1608-special-array-with-x-elements-greater-than-or-equal-x/) | Easy |
@@ -87,6 +89,7 @@ just to learn
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1340-jump-game-v](https://github.com/sagarsawra/leet-code-sol/tree/main/1340-jump-game-v/) | Hard |
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/sagarsawra/leet-code-sol/tree/main/2770-maximum-number-of-jumps-to-reach-the-last-index/) | Medium |
 ## Simulation
 | Problem Name | Difficulty |
