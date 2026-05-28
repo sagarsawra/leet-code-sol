@@ -26,6 +26,7 @@ just to learn
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/sagarsawra/leet-code-sol/tree/main/2770-maximum-number-of-jumps-to-reach-the-last-index/) | Medium |
 | [2784-check-if-array-is-good](https://github.com/sagarsawra/leet-code-sol/tree/main/2784-check-if-array-is-good/) | Easy |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/sagarsawra/leet-code-sol/tree/main/3043-find-the-length-of-the-longest-common-prefix/) | Medium |
+| [3093-longest-common-suffix-queries](https://github.com/sagarsawra/leet-code-sol/tree/main/3093-longest-common-suffix-queries/) | Hard |
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -84,6 +85,7 @@ just to learn
 | ------- | ------- |
 | [1021-remove-outermost-parentheses](https://github.com/sagarsawra/leet-code-sol/tree/main/1021-remove-outermost-parentheses/) | Easy |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/sagarsawra/leet-code-sol/tree/main/3043-find-the-length-of-the-longest-common-prefix/) | Medium |
+| [3093-longest-common-suffix-queries](https://github.com/sagarsawra/leet-code-sol/tree/main/3093-longest-common-suffix-queries/) | Hard |
 | [3120-count-the-number-of-special-characters-i](https://github.com/sagarsawra/leet-code-sol/tree/main/3120-count-the-number-of-special-characters-i/) | Easy |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/sagarsawra/leet-code-sol/tree/main/3121-count-the-number-of-special-characters-ii/) | Medium |
 ## Stack
@@ -111,4 +113,5 @@ just to learn
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/sagarsawra/leet-code-sol/tree/main/3043-find-the-length-of-the-longest-common-prefix/) | Medium |
+| [3093-longest-common-suffix-queries](https://github.com/sagarsawra/leet-code-sol/tree/main/3093-longest-common-suffix-queries/) | Hard |
 <!---LeetCode Topics End-->
