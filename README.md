@@ -27,6 +27,7 @@ just to learn
 | [2784-check-if-array-is-good](https://github.com/sagarsawra/leet-code-sol/tree/main/2784-check-if-array-is-good/) | Easy |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/sagarsawra/leet-code-sol/tree/main/3043-find-the-length-of-the-longest-common-prefix/) | Medium |
 | [3093-longest-common-suffix-queries](https://github.com/sagarsawra/leet-code-sol/tree/main/3093-longest-common-suffix-queries/) | Hard |
+| [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/sagarsawra/leet-code-sol/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -35,6 +36,7 @@ just to learn
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0441-arranging-coins](https://github.com/sagarsawra/leet-code-sol/tree/main/0441-arranging-coins/) | Easy |
+| [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/sagarsawra/leet-code-sol/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
