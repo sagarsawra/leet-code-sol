@@ -22,6 +22,7 @@ just to learn
 | [1760-minimum-limit-of-balls-in-a-bag](https://github.com/sagarsawra/leet-code-sol/tree/main/1760-minimum-limit-of-balls-in-a-bag/) | Medium |
 | [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/sagarsawra/leet-code-sol/tree/main/2064-minimized-maximum-of-products-distributed-to-any-store/) | Medium |
 | [2126-destroying-asteroids](https://github.com/sagarsawra/leet-code-sol/tree/main/2126-destroying-asteroids/) | Medium |
+| [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/sagarsawra/leet-code-sol/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
 | [2540-minimum-common-value](https://github.com/sagarsawra/leet-code-sol/tree/main/2540-minimum-common-value/) | Easy |
 | [2553-separate-the-digits-in-an-array](https://github.com/sagarsawra/leet-code-sol/tree/main/2553-separate-the-digits-in-an-array/) | Easy |
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/sagarsawra/leet-code-sol/tree/main/2770-maximum-number-of-jumps-to-reach-the-last-index/) | Medium |
@@ -80,6 +81,7 @@ just to learn
 | [1608-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/sagarsawra/leet-code-sol/tree/main/1608-special-array-with-x-elements-greater-than-or-equal-x/) | Easy |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/sagarsawra/leet-code-sol/tree/main/1665-minimum-initial-energy-to-finish-tasks/) | Hard |
 | [2126-destroying-asteroids](https://github.com/sagarsawra/leet-code-sol/tree/main/2126-destroying-asteroids/) | Medium |
+| [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/sagarsawra/leet-code-sol/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
 | [2784-check-if-array-is-good](https://github.com/sagarsawra/leet-code-sol/tree/main/2784-check-if-array-is-good/) | Easy |
 ## Greedy
 | Problem Name | Difficulty |
@@ -87,6 +89,7 @@ just to learn
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/sagarsawra/leet-code-sol/tree/main/1665-minimum-initial-energy-to-finish-tasks/) | Hard |
 | [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/sagarsawra/leet-code-sol/tree/main/2064-minimized-maximum-of-products-distributed-to-any-store/) | Medium |
 | [2126-destroying-asteroids](https://github.com/sagarsawra/leet-code-sol/tree/main/2126-destroying-asteroids/) | Medium |
+| [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/sagarsawra/leet-code-sol/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
