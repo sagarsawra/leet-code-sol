@@ -42,6 +42,7 @@ just to learn
 | ------- | ------- |
 | [0441-arranging-coins](https://github.com/sagarsawra/leet-code-sol/tree/main/0441-arranging-coins/) | Easy |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/sagarsawra/leet-code-sol/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
+| [3751-total-waviness-of-numbers-in-range-i](https://github.com/sagarsawra/leet-code-sol/tree/main/3751-total-waviness-of-numbers-in-range-i/) | Medium |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -117,6 +118,7 @@ just to learn
 | ------- | ------- |
 | [1340-jump-game-v](https://github.com/sagarsawra/leet-code-sol/tree/main/1340-jump-game-v/) | Hard |
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/sagarsawra/leet-code-sol/tree/main/2770-maximum-number-of-jumps-to-reach-the-last-index/) | Medium |
+| [3751-total-waviness-of-numbers-in-range-i](https://github.com/sagarsawra/leet-code-sol/tree/main/3751-total-waviness-of-numbers-in-range-i/) | Medium |
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -142,4 +144,8 @@ just to learn
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3161-block-placement-queries](https://github.com/sagarsawra/leet-code-sol/tree/main/3161-block-placement-queries/) | Hard |
+## Enumeration
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3751-total-waviness-of-numbers-in-range-i](https://github.com/sagarsawra/leet-code-sol/tree/main/3751-total-waviness-of-numbers-in-range-i/) | Medium |
 <!---LeetCode Topics End-->
