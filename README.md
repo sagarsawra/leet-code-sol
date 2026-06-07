@@ -23,6 +23,7 @@ just to learn
 | [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/sagarsawra/leet-code-sol/tree/main/2064-minimized-maximum-of-products-distributed-to-any-store/) | Medium |
 | [2126-destroying-asteroids](https://github.com/sagarsawra/leet-code-sol/tree/main/2126-destroying-asteroids/) | Medium |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/sagarsawra/leet-code-sol/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
+| [2196-create-binary-tree-from-descriptions](https://github.com/sagarsawra/leet-code-sol/tree/main/2196-create-binary-tree-from-descriptions/) | Medium |
 | [2540-minimum-common-value](https://github.com/sagarsawra/leet-code-sol/tree/main/2540-minimum-common-value/) | Easy |
 | [2553-separate-the-digits-in-an-array](https://github.com/sagarsawra/leet-code-sol/tree/main/2553-separate-the-digits-in-an-array/) | Easy |
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/sagarsawra/leet-code-sol/tree/main/2770-maximum-number-of-jumps-to-reach-the-last-index/) | Medium |
@@ -66,6 +67,7 @@ just to learn
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0532-k-diff-pairs-in-an-array](https://github.com/sagarsawra/leet-code-sol/tree/main/0532-k-diff-pairs-in-an-array/) | Medium |
+| [2196-create-binary-tree-from-descriptions](https://github.com/sagarsawra/leet-code-sol/tree/main/2196-create-binary-tree-from-descriptions/) | Medium |
 | [2540-minimum-common-value](https://github.com/sagarsawra/leet-code-sol/tree/main/2540-minimum-common-value/) | Easy |
 | [2784-check-if-array-is-good](https://github.com/sagarsawra/leet-code-sol/tree/main/2784-check-if-array-is-good/) | Easy |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/sagarsawra/leet-code-sol/tree/main/3043-find-the-length-of-the-longest-common-prefix/) | Medium |
@@ -150,4 +152,12 @@ just to learn
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/sagarsawra/leet-code-sol/tree/main/3751-total-waviness-of-numbers-in-range-i/) | Medium |
+## Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2196-create-binary-tree-from-descriptions](https://github.com/sagarsawra/leet-code-sol/tree/main/2196-create-binary-tree-from-descriptions/) | Medium |
+## Binary Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2196-create-binary-tree-from-descriptions](https://github.com/sagarsawra/leet-code-sol/tree/main/2196-create-binary-tree-from-descriptions/) | Medium |
 <!---LeetCode Topics End-->
