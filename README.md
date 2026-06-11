@@ -43,6 +43,7 @@ just to learn
 | ------- | ------- |
 | [0441-arranging-coins](https://github.com/sagarsawra/leet-code-sol/tree/main/0441-arranging-coins/) | Easy |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/sagarsawra/leet-code-sol/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
+| [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/sagarsawra/leet-code-sol/tree/main/3558-number-of-ways-to-assign-edge-weights-i/) | Medium |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/sagarsawra/leet-code-sol/tree/main/3751-total-waviness-of-numbers-in-range-i/) | Medium |
 | [3753-total-waviness-of-numbers-in-range-ii](https://github.com/sagarsawra/leet-code-sol/tree/main/3753-total-waviness-of-numbers-in-range-ii/) | Hard |
 ## Binary Search
@@ -131,6 +132,7 @@ just to learn
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1306-jump-game-iii](https://github.com/sagarsawra/leet-code-sol/tree/main/1306-jump-game-iii/) | Medium |
+| [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/sagarsawra/leet-code-sol/tree/main/3558-number-of-ways-to-assign-edge-weights-i/) | Medium |
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -156,6 +158,7 @@ just to learn
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2196-create-binary-tree-from-descriptions](https://github.com/sagarsawra/leet-code-sol/tree/main/2196-create-binary-tree-from-descriptions/) | Medium |
+| [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/sagarsawra/leet-code-sol/tree/main/3558-number-of-ways-to-assign-edge-weights-i/) | Medium |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
