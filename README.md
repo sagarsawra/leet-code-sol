@@ -35,6 +35,7 @@ just to learn
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/sagarsawra/leet-code-sol/tree/main/3559-number-of-ways-to-assign-edge-weights-ii/) | Hard |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/sagarsawra/leet-code-sol/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/sagarsawra/leet-code-sol/tree/main/3635-earliest-finish-time-for-land-and-water-rides-ii/) | Medium |
+| [3838-weighted-word-mapping](https://github.com/sagarsawra/leet-code-sol/tree/main/3838-weighted-word-mapping/) | Easy |
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -115,6 +116,7 @@ just to learn
 | [3093-longest-common-suffix-queries](https://github.com/sagarsawra/leet-code-sol/tree/main/3093-longest-common-suffix-queries/) | Hard |
 | [3120-count-the-number-of-special-characters-i](https://github.com/sagarsawra/leet-code-sol/tree/main/3120-count-the-number-of-special-characters-i/) | Easy |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/sagarsawra/leet-code-sol/tree/main/3121-count-the-number-of-special-characters-ii/) | Medium |
+| [3838-weighted-word-mapping](https://github.com/sagarsawra/leet-code-sol/tree/main/3838-weighted-word-mapping/) | Easy |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -131,6 +133,7 @@ just to learn
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2553-separate-the-digits-in-an-array](https://github.com/sagarsawra/leet-code-sol/tree/main/2553-separate-the-digits-in-an-array/) | Easy |
+| [3838-weighted-word-mapping](https://github.com/sagarsawra/leet-code-sol/tree/main/3838-weighted-word-mapping/) | Easy |
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
