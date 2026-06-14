@@ -82,6 +82,7 @@ just to learn
 | ------- | ------- |
 | [0532-k-diff-pairs-in-an-array](https://github.com/sagarsawra/leet-code-sol/tree/main/0532-k-diff-pairs-in-an-array/) | Medium |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/sagarsawra/leet-code-sol/tree/main/1385-find-the-distance-value-between-two-arrays/) | Easy |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/sagarsawra/leet-code-sol/tree/main/2130-maximum-twin-sum-of-a-linked-list/) | Medium |
 | [2540-minimum-common-value](https://github.com/sagarsawra/leet-code-sol/tree/main/2540-minimum-common-value/) | Easy |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/sagarsawra/leet-code-sol/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/sagarsawra/leet-code-sol/tree/main/3635-earliest-finish-time-for-land-and-water-rides-ii/) | Medium |
@@ -121,6 +122,7 @@ just to learn
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1021-remove-outermost-parentheses](https://github.com/sagarsawra/leet-code-sol/tree/main/1021-remove-outermost-parentheses/) | Easy |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/sagarsawra/leet-code-sol/tree/main/2130-maximum-twin-sum-of-a-linked-list/) | Medium |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -175,4 +177,8 @@ just to learn
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/sagarsawra/leet-code-sol/tree/main/3559-number-of-ways-to-assign-edge-weights-ii/) | Hard |
+## Linked List
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/sagarsawra/leet-code-sol/tree/main/2130-maximum-twin-sum-of-a-linked-list/) | Medium |
 <!---LeetCode Topics End-->
