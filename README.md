@@ -44,6 +44,7 @@ just to learn
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0441-arranging-coins](https://github.com/sagarsawra/leet-code-sol/tree/main/0441-arranging-coins/) | Easy |
+| [1344-angle-between-hands-of-a-clock](https://github.com/sagarsawra/leet-code-sol/tree/main/1344-angle-between-hands-of-a-clock/) | Medium |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/sagarsawra/leet-code-sol/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/sagarsawra/leet-code-sol/tree/main/3558-number-of-ways-to-assign-edge-weights-i/) | Medium |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/sagarsawra/leet-code-sol/tree/main/3559-number-of-ways-to-assign-edge-weights-ii/) | Hard |
