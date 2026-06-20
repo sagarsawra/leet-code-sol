@@ -21,6 +21,7 @@ just to learn
 | [1732-find-the-highest-altitude](https://github.com/sagarsawra/leet-code-sol/tree/main/1732-find-the-highest-altitude/) | Easy |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/sagarsawra/leet-code-sol/tree/main/1752-check-if-array-is-sorted-and-rotated/) | Easy |
 | [1760-minimum-limit-of-balls-in-a-bag](https://github.com/sagarsawra/leet-code-sol/tree/main/1760-minimum-limit-of-balls-in-a-bag/) | Medium |
+| [1840-maximum-building-height](https://github.com/sagarsawra/leet-code-sol/tree/main/1840-maximum-building-height/) | Hard |
 | [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/sagarsawra/leet-code-sol/tree/main/2064-minimized-maximum-of-products-distributed-to-any-store/) | Medium |
 | [2126-destroying-asteroids](https://github.com/sagarsawra/leet-code-sol/tree/main/2126-destroying-asteroids/) | Medium |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/sagarsawra/leet-code-sol/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
@@ -47,6 +48,7 @@ just to learn
 | ------- | ------- |
 | [0441-arranging-coins](https://github.com/sagarsawra/leet-code-sol/tree/main/0441-arranging-coins/) | Easy |
 | [1344-angle-between-hands-of-a-clock](https://github.com/sagarsawra/leet-code-sol/tree/main/1344-angle-between-hands-of-a-clock/) | Medium |
+| [1840-maximum-building-height](https://github.com/sagarsawra/leet-code-sol/tree/main/1840-maximum-building-height/) | Hard |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/sagarsawra/leet-code-sol/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/sagarsawra/leet-code-sol/tree/main/3558-number-of-ways-to-assign-edge-weights-i/) | Medium |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/sagarsawra/leet-code-sol/tree/main/3559-number-of-ways-to-assign-edge-weights-ii/) | Hard |
@@ -99,6 +101,7 @@ just to learn
 | [1552-magnetic-force-between-two-balls](https://github.com/sagarsawra/leet-code-sol/tree/main/1552-magnetic-force-between-two-balls/) | Medium |
 | [1608-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/sagarsawra/leet-code-sol/tree/main/1608-special-array-with-x-elements-greater-than-or-equal-x/) | Easy |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/sagarsawra/leet-code-sol/tree/main/1665-minimum-initial-energy-to-finish-tasks/) | Hard |
+| [1840-maximum-building-height](https://github.com/sagarsawra/leet-code-sol/tree/main/1840-maximum-building-height/) | Hard |
 | [2126-destroying-asteroids](https://github.com/sagarsawra/leet-code-sol/tree/main/2126-destroying-asteroids/) | Medium |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/sagarsawra/leet-code-sol/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
 | [2784-check-if-array-is-good](https://github.com/sagarsawra/leet-code-sol/tree/main/2784-check-if-array-is-good/) | Easy |
