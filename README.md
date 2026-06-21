@@ -21,6 +21,7 @@ just to learn
 | [1732-find-the-highest-altitude](https://github.com/sagarsawra/leet-code-sol/tree/main/1732-find-the-highest-altitude/) | Easy |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/sagarsawra/leet-code-sol/tree/main/1752-check-if-array-is-sorted-and-rotated/) | Easy |
 | [1760-minimum-limit-of-balls-in-a-bag](https://github.com/sagarsawra/leet-code-sol/tree/main/1760-minimum-limit-of-balls-in-a-bag/) | Medium |
+| [1833-maximum-ice-cream-bars](https://github.com/sagarsawra/leet-code-sol/tree/main/1833-maximum-ice-cream-bars/) | Medium |
 | [1840-maximum-building-height](https://github.com/sagarsawra/leet-code-sol/tree/main/1840-maximum-building-height/) | Hard |
 | [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/sagarsawra/leet-code-sol/tree/main/2064-minimized-maximum-of-products-distributed-to-any-store/) | Medium |
 | [2126-destroying-asteroids](https://github.com/sagarsawra/leet-code-sol/tree/main/2126-destroying-asteroids/) | Medium |
@@ -101,6 +102,7 @@ just to learn
 | [1552-magnetic-force-between-two-balls](https://github.com/sagarsawra/leet-code-sol/tree/main/1552-magnetic-force-between-two-balls/) | Medium |
 | [1608-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/sagarsawra/leet-code-sol/tree/main/1608-special-array-with-x-elements-greater-than-or-equal-x/) | Easy |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/sagarsawra/leet-code-sol/tree/main/1665-minimum-initial-energy-to-finish-tasks/) | Hard |
+| [1833-maximum-ice-cream-bars](https://github.com/sagarsawra/leet-code-sol/tree/main/1833-maximum-ice-cream-bars/) | Medium |
 | [1840-maximum-building-height](https://github.com/sagarsawra/leet-code-sol/tree/main/1840-maximum-building-height/) | Hard |
 | [2126-destroying-asteroids](https://github.com/sagarsawra/leet-code-sol/tree/main/2126-destroying-asteroids/) | Medium |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/sagarsawra/leet-code-sol/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
@@ -111,6 +113,7 @@ just to learn
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/sagarsawra/leet-code-sol/tree/main/1665-minimum-initial-energy-to-finish-tasks/) | Hard |
+| [1833-maximum-ice-cream-bars](https://github.com/sagarsawra/leet-code-sol/tree/main/1833-maximum-ice-cream-bars/) | Medium |
 | [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/sagarsawra/leet-code-sol/tree/main/2064-minimized-maximum-of-products-distributed-to-any-store/) | Medium |
 | [2126-destroying-asteroids](https://github.com/sagarsawra/leet-code-sol/tree/main/2126-destroying-asteroids/) | Medium |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/sagarsawra/leet-code-sol/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
@@ -193,4 +196,8 @@ just to learn
 | ------- | ------- |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/sagarsawra/leet-code-sol/tree/main/2095-delete-the-middle-node-of-a-linked-list/) | Medium |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/sagarsawra/leet-code-sol/tree/main/2130-maximum-twin-sum-of-a-linked-list/) | Medium |
+## Counting Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1833-maximum-ice-cream-bars](https://github.com/sagarsawra/leet-code-sol/tree/main/1833-maximum-ice-cream-bars/) | Medium |
 <!---LeetCode Topics End-->
