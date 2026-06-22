@@ -77,6 +77,7 @@ just to learn
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0532-k-diff-pairs-in-an-array](https://github.com/sagarsawra/leet-code-sol/tree/main/0532-k-diff-pairs-in-an-array/) | Medium |
+| [1189-maximum-number-of-balloons](https://github.com/sagarsawra/leet-code-sol/tree/main/1189-maximum-number-of-balloons/) | Easy |
 | [2196-create-binary-tree-from-descriptions](https://github.com/sagarsawra/leet-code-sol/tree/main/2196-create-binary-tree-from-descriptions/) | Medium |
 | [2540-minimum-common-value](https://github.com/sagarsawra/leet-code-sol/tree/main/2540-minimum-common-value/) | Easy |
 | [2784-check-if-array-is-good](https://github.com/sagarsawra/leet-code-sol/tree/main/2784-check-if-array-is-good/) | Easy |
@@ -123,6 +124,7 @@ just to learn
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1021-remove-outermost-parentheses](https://github.com/sagarsawra/leet-code-sol/tree/main/1021-remove-outermost-parentheses/) | Easy |
+| [1189-maximum-number-of-balloons](https://github.com/sagarsawra/leet-code-sol/tree/main/1189-maximum-number-of-balloons/) | Easy |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/sagarsawra/leet-code-sol/tree/main/3043-find-the-length-of-the-longest-common-prefix/) | Medium |
 | [3093-longest-common-suffix-queries](https://github.com/sagarsawra/leet-code-sol/tree/main/3093-longest-common-suffix-queries/) | Hard |
 | [3120-count-the-number-of-special-characters-i](https://github.com/sagarsawra/leet-code-sol/tree/main/3120-count-the-number-of-special-characters-i/) | Easy |
@@ -199,5 +201,6 @@ just to learn
 ## Counting Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1189-maximum-number-of-balloons](https://github.com/sagarsawra/leet-code-sol/tree/main/1189-maximum-number-of-balloons/) | Easy |
 | [1833-maximum-ice-cream-bars](https://github.com/sagarsawra/leet-code-sol/tree/main/1833-maximum-ice-cream-bars/) | Medium |
 <!---LeetCode Topics End-->
