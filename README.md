@@ -6,6 +6,7 @@ just to learn
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0080-remove-duplicates-from-sorted-array-ii](https://github.com/sagarsawra/leet-code-sol/tree/main/0080-remove-duplicates-from-sorted-array-ii/) | Medium |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/sagarsawra/leet-code-sol/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/sagarsawra/leet-code-sol/tree/main/0154-find-minimum-in-rotated-sorted-array-ii/) | Hard |
 | [0238-product-of-array-except-self](https://github.com/sagarsawra/leet-code-sol/tree/main/0238-product-of-array-except-self/) | Medium |
@@ -87,6 +88,7 @@ just to learn
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0080-remove-duplicates-from-sorted-array-ii](https://github.com/sagarsawra/leet-code-sol/tree/main/0080-remove-duplicates-from-sorted-array-ii/) | Medium |
 | [0532-k-diff-pairs-in-an-array](https://github.com/sagarsawra/leet-code-sol/tree/main/0532-k-diff-pairs-in-an-array/) | Medium |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/sagarsawra/leet-code-sol/tree/main/1385-find-the-distance-value-between-two-arrays/) | Easy |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/sagarsawra/leet-code-sol/tree/main/2095-delete-the-middle-node-of-a-linked-list/) | Medium |
